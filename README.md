@@ -1,4 +1,4 @@
-Minecraft XAMPP Project – First Release
+Vanilla Minecraft XAMPP Project – First Release
 
 This is the first public release of my Minecraft XAMPP Project, designed to be easy to use and accessible for everyone who wants to run a simple Minecraft-related web setup locally.
 
