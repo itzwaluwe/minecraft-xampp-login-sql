@@ -19,7 +19,7 @@ Navicat for easy login edit
 Open port 25565 (TCP & UDP)
 
 Installation
-
+xamp Download official website: https://www.apachefriends.org/download.html
 Unzip the entire project into:
 C:\xampp\htdocs
 (or your custom XAMPP htdocs directory)
