@@ -39,7 +39,8 @@ Check the README file for:
 
 SQL database setup
 create new database in xamp mysql using phpmyadmin with the name loginpagina and import sql file
-SQL.sql
+[SQL.sql](https://github.com/user-attachments/files/25220393/SQL.sql)
+
 
 Database username and password
 (credentials are currently stored in plain text)
